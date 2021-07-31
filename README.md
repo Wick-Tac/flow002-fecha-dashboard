@@ -14,3 +14,4 @@ https://flows.nodered.org/node/node-red-dashboard
 El nodo function requiere de un codigo extra que se encuentra en el archivo convertDate-Funciton
 
 Por: [Hugo Vargas](https://github.com/hugoescalpelo)
+.
